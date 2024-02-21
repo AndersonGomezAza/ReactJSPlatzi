@@ -1,0 +1,3 @@
+Que es un componente
+    Todo en la aplicacion es un componente
+    
